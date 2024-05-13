@@ -1,0 +1,40 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Понятие искусственной нейронной сети}{5}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Распознавание образов и классификация}{6}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Образы и Классификация}{6}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Кластеризация и Новые Классы}{9}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Архитектура Нейронных Сетей}{9}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Прогнозирование}{10}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}Аппроксимация}{10}{subsubsection.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.1.7}Сжатие данных и ассоциативная память}{11}{subsubsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.2}Понятие нечёткой логики}{11}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Символическая нечёткая логика}{11}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Синтез функций непрерывной логики заданных таблично}{12}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Теория приближённых вычислений}{13}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Нечёткая логика и нейронные сети}{13}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Байесовская вероятность}{14}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}Понятие Адаптивной системы нейро-нечеткого вывода}{14}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Слой фаззификации}{16}{subsubsection.1.3.1}%
+\contentsline {section}{\numberline {2}Техническое задание}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{17}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу приложения}{17}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{18}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к оформлению документации}{19}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Технический проект}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{20}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{20}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Описание используемых технологий и языков программирования}{20}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Нечеткие нейронные сети}{20}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Машинное обучение}{21}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Python и его библиотеки}{21}{subsubsection.3.2.4}%
+\contentsline {paragraph}{\numberline {3.2.4.1}Достоинства языка Python}{21}{paragraph.3.2.4.1}%
+\contentsline {paragraph}{\numberline {3.2.4.2}Недостатки языка Python}{23}{paragraph.3.2.4.2}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов}{24}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Структура компонентов}{24}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Взаимодействие компонентов}{25}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Содержание информационных блоков. Основные сущности}{26}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Структура информационного блока}{26}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Взаимодействие информационных блоков с компонентами системы}{27}{subsubsection.3.4.2}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{27}{Item.32}%
