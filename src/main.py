@@ -1,6 +1,6 @@
 from tkinter import *
-from tkinter import ttk
 from tkinter import filedialog
+from ANFIS import Анфиса
 
 Окно = Tk()
 Окно.geometry("1112x720")
@@ -14,7 +14,8 @@ from tkinter import filedialog
 ВысотаКнопки = 25
 Интервал = 2
 def загрузитьИзображение():
-    global Изображение  # Keep a reference to the PhotoImage object
+    global Изображение
+    global Путь
     Путь = filedialog.askopenfilename(filetypes=[("Изображения", "*.png;*.jpg;*.jpeg")])
     if Путь:
         Изображение = PhotoImage(file=Путь)
@@ -28,14 +29,19 @@ def загрузитьИзображение():
                 rgb = '#%02x%02x%02x' % Изображение.get(xOld, yOld)
                 НовоеИзображение.put(rgb, (x, y))
         Изображение = НовоеИзображение
-        ПолеИзображения.create_image(Интервал + 187, Интервал, anchor=NW, image=Изображение)
+        ПолеИзображения.create_image(Интервал + 187, Интервал, anchor=NW, image=Изображение, tags='Old')
+
+def распознать():
+    if Путь:
+        ПолеИзображения.delete('Old')
+        ПолеИзображения.create_image(Интервал + 187, Интервал, anchor=NW, image=Анфиса(Путь))
 
 КнопкаЗагрузкиИзображения = Button(ПолеИзображения, text=f"Загрузить изображение", command=загрузитьИзображение)
 ПолеИзображения.create_window(Интервал, Интервал, anchor=NW, window=КнопкаЗагрузкиИзображения)
 КнопкаЗагрузкиДанныхДляОбучения = Button(ПолеИзображения, text=f"Загрузить данные для обучения")
 ПолеИзображения.create_window(Интервал, ВысотаКнопки + Интервал, anchor=NW, window=КнопкаЗагрузкиДанныхДляОбучения)
 
-КнопкаНачалаРаспознания = Button(ПолеИзображения, text=f"Распознать")
+КнопкаНачалаРаспознания = Button(ПолеИзображения, text=f"Распознать", command=распознать)
 ПолеИзображения.create_window(Интервал, (НижняяГраница - ВысотаКнопки - Интервал), anchor=NW, window=КнопкаНачалаРаспознания)
 КнопкаНачалаОбучения = Button(ПолеИзображения, text=f"Обучать")
 ПолеИзображения.create_window(Интервал + 74, (НижняяГраница - ВысотаКнопки - Интервал), anchor=NW, window=КнопкаНачалаОбучения)
