@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  15 MAY 2024 22:18
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  17 MAY 2024 06:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,9 +533,6 @@ Space,Scale=0.7].
 
 (c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/03/11 1.10a listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2024/03/11 1.10a (Carsten Heinz)
 )) (./main.aux)
 \openout1 = `main.aux'.
 
@@ -675,28 +672,14 @@ File: images/maket.png Graphic file (type bmp)
 <images/maket.png>
 File: images/usecase.png Graphic file (type bmp)
 <images/usecase.png>
- [18]) (./ТехПроект.tex [19]
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]\TU/TimesNewRoman(0)/b/n/14.4 3.2.1 Описание используемых технологий и языков
+ [18]) (./ТехПроект.tex [19] [20] [21]
+File: images/databasediagram.png Graphic file (type bmp)
+<images/databasediagram.png>
 
- []
-
-[20] [21]
-Underfull \hbox (badness 3590) in paragraph at lines 52--53
-[]\TU/TimesNewRoman(0)/m/n/14.4 Мультипарадигменность: Python поддерживает разл
-ичные стили
- []
-
-[22] [23] [24]
+[22]
 File: images/componentdiagram.png Graphic file (type bmp)
 <images/componentdiagram.png>
- [25] [26]
-Underfull \hbox (badness 1087) in paragraph at lines 149--150
-[]\TU/TimesNewRoman(0)/m/n/14.4 Модуль нечеткой нейронной сети: Использует инфо
-рмационные
- []
-
-) (./СписокИсточников.tex [27] [28]
+ [23] [24]) (./СписокИсточников.tex [25] [26] [27]
 Underfull \hbox (badness 6188) in paragraph at lines 15--16
 []\TU/TimesNewRoman(0)/m/n/14.4 Герон, О. Практическое машинное обучение с Scik
 it-Learn и
@@ -707,21 +690,21 @@ it-Learn и
 Package caption Warning: Unused \captionsetup[table] on input line 32.
 See the caption package documentation for explanation.
 
-[29] (./main.aux)
+[28] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E028A9727FF2905E12E44549DF8871FA;11987.
+(rerunfilecheck)             Checksum: 1B080E17E0D405B22FBF4F25347F3D2B;12021.
  ) 
 Here is how much of TeX's memory you used:
- 15613 strings out of 474759
- 305145 string characters out of 5761036
+ 15619 strings out of 474759
+ 305363 string characters out of 5761036
  1936148 words of memory out of 5000000
- 37549 multiletter control sequences out of 15000+600000
+ 37557 multiletter control sequences out of 15000+600000
  559574 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,11n,110p,868b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (29 pages).
+Output written on main.pdf (28 pages).
