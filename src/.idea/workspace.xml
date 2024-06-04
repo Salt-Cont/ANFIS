@@ -4,44 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd1379f-c925-4f46-808f-b5cfccf6e2ad" name="Changes" comment="">
+    <list default="true" id="8799f097-5ceb-4382-a4c1-c55bbc5f9114" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../latex/main.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.lpc" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.lpc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/Плакаты.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Плакаты.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/РабочийПроект.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/РабочийПроект.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/ТехПроект.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/ТехПроект.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANFIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANFIS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Salt-Cont&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Salt-Cont/ANFIS.git&quot;,
-    &quot;accountId&quot;: &quot;bae9875a-868b-4d2a-bb00-894b534292d2&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2gSag6UU1nprPOE6x3cAbvAeMnf" />
-  <component name="ProjectLevelVcsManager">
-    <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2hKsEaA690tTyE94kVR82bgSnF6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,11 +41,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ANFIS.executor": "Run",
+    "Python.AnfisSample.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/bvvzx/Documents/GitHub/ANFIS/src",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -67,35 +58,28 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cdd1379f-c925-4f46-808f-b5cfccf6e2ad" name="Changes" comment="" />
-      <created>1715693541582</created>
+      <changelist id="8799f097-5ceb-4382-a4c1-c55bbc5f9114" name="Changes" comment="" />
+      <created>1717353992647</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715693541582</updated>
+      <updated>1717353992647</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

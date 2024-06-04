@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  17 MAY 2024 06:10
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  25 MAY 2024 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,7 +533,20 @@ Space,Scale=0.7].
 
 (c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/03/11 1.10a listings language file
-)) (./main.aux)
+)) (./main.aux
+
+LaTeX Warning: Label `usecase:image' multiply defined.
+
+
+LaTeX Warning: Label `usecase:image' multiply defined.
+
+
+LaTeX Warning: Label `usecase:image' multiply defined.
+
+
+LaTeX Warning: Label `usecase:image' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -547,8 +560,7 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 1.
-
-(c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 31.
@@ -628,7 +640,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/Verdana(0)/b/n on input line 31.
 LaTeX Info: Redefining \th on input line 31.
 Package hyperref Info: Link coloring OFF on input line 31.
- (./main.out) (./main.out)
+ (./main.out)
+(./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -640,71 +653,320 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
-[1] (./main.toc [2])
-\tf@toc=\write4
-\openout4 = `main.toc'.
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[] 
+ []
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+[1] (./ЛистЗадания.tex [2] (./main.lop)
+\tf@lop=\write4
+\openout4 = `main.lop'.
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 97--108
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--108
+
+ []
+
+) (./Реферат.tex [3] [4]
+\c=\count313
+\last=\count314
+\pnul=\count315
+\c=\count316
+\last=\count317
+\pnul=\count318
+\c=\count319
+\last=\count320
+\pnul=\count321
+\c=\count322
+\last=\count323
+\pnul=\count324
+ [5]
+\c=\count325
+\last=\count326
+\pnul=\count327
+\c=\count328
+\last=\count329
+\pnul=\count330
+\c=\count331
+\last=\count332
+\pnul=\count333
+\c=\count334
+\last=\count335
+\pnul=\count336
+) [6] (./main.toc [7])
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  (./main.lpc)
-\tf@lpc=\write5
-\openout5 = `main.lpc'.
+\tf@lpc=\write6
+\openout6 = `main.lpc'.
 
- (./Обозначения.tex [3]) (./Анализ.tex
-[4]
+
+(./Обозначения.tex
+Underfull \hbox (badness 1331) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 Концептуальная модель сайта (Графический материал
+ / Концептуальная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+[8]) (./Введение.tex [9] [10]
+\c=\count337
+\last=\count338
+\pnul=\count339
+) (./Анализ.tex [11] [12]
 Underfull \hbox (badness 3492) in paragraph at lines 3--4
 []\TU/TimesNewRoman(0)/m/n/14.4 Нейронная сеть, также именуемая искусственной н
 ервной сетью
  []
 
-[5] [6] [7] [8] [9] [10] [11]
+[13] [14] [15] [16] [17] [18] [19]
 Underfull \hbox (badness 1009) in paragraph at lines 106--107
 \TU/TimesNewRoman(0)/m/n/14.4 определить, является ли функция, заданная таблице
 й выбора, функцией
  []
 
-[12] [13] [14]
+[20] [21] [22]
 Underfull \hbox (badness 2894) in paragraph at lines 136--137
 []\TU/TimesNewRoman(0)/m/n/14.4 В ANFIS система вывода соответствует набору неч
 етких правил
  []
 
-[15]) (./ТехЗадание.tex [16] [17]
+[23]) (./ТехЗадание.tex [24] [25]
 File: images/maket.png Graphic file (type bmp)
 <images/maket.png>
 File: images/usecase.png Graphic file (type bmp)
 <images/usecase.png>
- [18]) (./ТехПроект.tex [19] [20] [21]
+ [26]) (./ТехПроект.tex [27] [28]
+File: images/neuro_diagram.png Graphic file (type bmp)
+<images/neuro_diagram.png>
+ [29]
 File: images/databasediagram.png Graphic file (type bmp)
 <images/databasediagram.png>
 
-[22]
+[30] [31]
 File: images/componentdiagram.png Graphic file (type bmp)
 <images/componentdiagram.png>
- [23] [24]) (./СписокИсточников.tex [25] [26] [27]
+ [32] [33]) (./РабочийПроект.tex [34]
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Главный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 CMain – главный
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 класс страницы web-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 приложения. После
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 одного из этапов по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 загрузке страницы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 в сценарии стано-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 вится доступным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 инициализированный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 void ShowTitle(string
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 bool strip_tags =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 true) Выводит за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 головок страницы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 void SetTitle(string
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 title) Устанавливает
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/TimesNewRoman(0)/m/n/14.4 void ShowCSS(bool
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 external = true, bool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 XhtmlStyle = true)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 Выводит таблицу
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Главный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 CFile – Класс для
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 работы с файлами и
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 щает массив, содер-
+ []
+
+LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
+(Font)              scaled to size 10.07994pt on input line 32.
+[35] [36]
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+ [37]) (./Заключение.tex [38]) (./СписокИсточников.tex [39] [40]
 Underfull \hbox (badness 6188) in paragraph at lines 15--16
 []\TU/TimesNewRoman(0)/m/n/14.4 Герон, О. Практическое машинное обучение с Scik
 it-Learn и
  []
 
+) (./Плакаты.tex [41] [42]
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+ [43
+
+]
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+ [44]
+File: images/usecase.png Graphic file (type bmp)
+<images/usecase.png>
+ [45] [46]) (./Код.tex
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/03/11 1.10a listings language file
 )
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2024/03/11 1.10a listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/03/11 1.10a (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 4.
+ (./main.tex
+[47
 
-Package caption Warning: Unused \captionsetup[table] on input line 32.
-See the caption package documentation for explanation.
-
-[28] (./main.aux)
+]) (./ТехПроект.tex [48] [49] [50]) [51]) [52] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1B080E17E0D405B22FBF4F25347F3D2B;12021.
+(rerunfilecheck)             Checksum: C4ACDA939EA709673312F0BF38A7FC79;14939.
  ) 
 Here is how much of TeX's memory you used:
- 15619 strings out of 474759
- 305363 string characters out of 5761036
- 1936148 words of memory out of 5000000
- 37557 multiletter control sequences out of 15000+600000
- 559574 words of font info for 69 fonts, out of 8000000 for 9000
+ 17871 strings out of 474759
+ 336965 string characters out of 5761036
+ 2219148 words of memory out of 5000000
+ 39756 multiletter control sequences out of 15000+600000
+ 559598 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,110p,868b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,110p,953b,2943s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (28 pages).
+Output written on main.pdf (52 pages).
