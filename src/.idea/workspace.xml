@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8799f097-5ceb-4382-a4c1-c55bbc5f9114" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../latex/main.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.lpc" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.lpc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/main.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/Плакаты.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Плакаты.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/РабочийПроект.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/РабочийПроект.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/ТехПроект.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/ТехПроект.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANFIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANFIS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="8799f097-5ceb-4382-a4c1-c55bbc5f9114" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -42,9 +22,9 @@
   "keyToString": {
     "Python.ANFIS.executor": "Run",
     "Python.AnfisSample.executor": "Run",
+    "Python.DB.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>

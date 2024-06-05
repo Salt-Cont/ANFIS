@@ -1,16 +1,40 @@
 import sqlite3
 
-# Подключение к базе данных
-conn = sqlite3.connect('Based_data.db')
-cursor = conn.cursor()
-conn.commit()
-conn.close()
-
 def сохранить(ИмяМодели, Набор):
-    return
+    Подключение = sqlite3.connect('Based_data.db')
+    Курсор = Подключение.cursor()
+    Курсор.execute(f"SELECT EXISTS(SELECT * FROM Готовые_данные WHERE Адрес_файла = ?)", (ИмяМодели, ))
+    НаличиеМодели = Курсор.fetchone()[0]
+    if not НаличиеМодели:
+        Курсор.execute(f"INSERT INTO Готовые_данные (Адрес_файла) VALUES (?)", (ИмяМодели, ))
+        Подключение.commit()
+    Курсор.execute(f"SELECT * FROM Готовые_данные WHERE Адрес_файла = ?", (ИмяМодели, ))
+    ИДМодели = Курсор.fetchone()[0]
+    for И in range(len(Набор)):
+        Курсор.execute(f"SELECT EXISTS(SELECT * FROM Тренировочный_набор WHERE Красный_канал = ? AND Синий_канал = ? AND Зелёный_канал = ? AND Выходные_данные= ?)", (Набор[И][0], Набор[И][1], Набор[И][2], Набор[И][3]))
+        НаличиеНабора = Курсор.fetchone()[0]
+        if not НаличиеНабора:
+            Курсор.execute(f"INSERT INTO Тренировочный_набор (Красный_канал, Синий_канал, Зелёный_канал, Выходные_данные) VALUES (?, ?, ?, ?)", (Набор[И][0], Набор[И][1], Набор[И][2], Набор[И][3]))
+            Подключение.commit()
+            Курсор.execute(f"SELECT seq FROM sqlite_sequence WHERE name= ?", ('Тренировочный_набор', ))
+            ИДНабора = Курсор.fetchone()[0]
+            Курсор.execute(f"INSERT INTO Модель (Имя_модели, ИД_Тренировочного_набора, ИД_Готовых_данных) VALUES (?, ?, ?)", (ИмяМодели, ИДНабора, ИДМодели))
+            Подключение.commit()
+    Подключение.close()
 
 def загрузитьСписокНаборов():
-    return
+    Подключение = sqlite3.connect('Based_data.db')
+    Курсор = Подключение.cursor()
+    Курсор.execute(f"SELECT Адрес_файла FROM Готовые_данные")
+    Список = Курсор.fetchall()
+    for А in range(len(Список)):
+        Список[0] = Список[0][0]
+    Подключение.close()
+    return Список
 
 def загрузитьНабор(Название):
-    return
+    Подключение = sqlite3.connect('Based_data.db')
+    Курсор = Подключение.cursor()
+
+    Подключение.commit()
+    Подключение.close()
