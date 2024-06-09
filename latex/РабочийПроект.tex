@@ -160,7 +160,6 @@ class TestНормализацияКаналов(unittest.TestCase):
 
 Модульные тесты для класса DB из модели данных представлены на рисунках \ref{test4:image}-\ref{test6:image}.
 
-\newpage
 \begin{figure}[ht]
 \begin{lstlisting}[language=Python]
 from DB import сохранить
@@ -199,8 +198,7 @@ class TestСохранить(unittest.TestCase):
 \label{test4:image}
 \end{figure}
 
-\newpage
-\begin{figure}[ht]
+\begin{figure}[H]
 \begin{lstlisting}[language=Python]
 from DB import сохранить
 from DB import загрузитьСписокНаборов
@@ -229,8 +227,7 @@ class TestЗагрузитьСписокНаборов(unittest.TestCase):
 \label{test5:image}
 \end{figure}
 
-\newpage
-\begin{figure}[ht]
+\begin{figure}[H]
 \begin{lstlisting}[language=Python]
 from DB import сохранить
 from DB import загрузитьСписокНаборов
@@ -265,32 +262,162 @@ class TestЗагрузитьНабор(unittest.TestCase):
 \caption{Модульный тест метода загрузитьНабор класса DB}
 \label{test6:image}
 \end{figure}
+\subsection{Системное тестирование разработанного приложения}
 
-\newpage 
-\subsection{Системное тестирование разработанного web-сайта}
-
-На рисунке \ref{usecase:image} представлена главная страница сайта «Русатом – Аддитивные технологии».
-\newpage % при необходимости можно переносить рисунок на новую страницу
-\begin{figure}[H] % H - рисунок обязательно здесь, или переносится, оставляя пустоту
-\center{\includegraphics[width=1\linewidth]{usecase}}
-\center{\includegraphics[width=1\linewidth]{usecase}}
-\center{\includegraphics[width=1\linewidth]{usecase}}
-\caption{Главная страница сайта «Русатом – Аддитивные технологии»}
-\label{usecase:image}
+На рисунке \ref{systemtest_interface:image} представлен интерфейс программы.
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{systemtest_interface}
+\caption{Диаграмма вариантов использования}
+\label{systemtest_interface:image}
 \end{figure}
 
-На рисунке \ref{usecase:image} представлен динамический вывод заголовков, включающий в себя искомые фразы при поиске фраз.
+На рисунках \ref{systemtest_responce:image}-\ref{systemtest_responce4:image} представлен полный путь распознания объекта на изображении.
 
-\begin{figure}[ht]
-\center{\includegraphics[width=1\linewidth]{usecase}}
-\caption{Динамический вывод заголовков}
-\label{usecase:image}
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce}}
+\caption{Диалоговое окно загрузки файла Машина.png}
+\label{systemtest_responce:image}
 \end{figure}
 
-На рисунке \ref{usecase:image} представлен ввод данных для публикации новости.
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce1}}
+\caption{Изображение отображено в интерфейсе программы}
+\label{systemtest_responce1:image}
+\end{figure}
 
-\begin{figure}[ht]
-\center{\includegraphics[width=1\linewidth]{usecase}}
-\caption{Ввод данных для публикации очень-очень длинной, интересной и полезной новости}
-\label{usecase:image}
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce2}}
+\caption{Окно выбора модели для распознания}
+\label{systemtest_responce2:image}
+\end{figure}
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce3}}
+\caption{Распознанный объект отображен на интерфейсе}
+\label{systemtest_responce3:image}
+\end{figure}
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce4}}
+\caption{Диалоговое окно сохранения результата}
+\label{systemtest_responce4:image}
+\end{figure}
+
+На рисунках \ref{systemtest_train1:image}-\ref{systemtest_train3:image} представлены все варианты обучения нейронной сети.
+
+На рисунке \ref{systemtest_train1:image} была нажата кнопка обучать, после чего открылось окно выбора набора.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_train1}}
+\caption{Окно выбора обучающего набора}
+\label{systemtest_train1:image}
+\end{figure}
+
+После выбора нового набора появилось окно, предлагающее назвать модель и обучить её.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_train2}}
+\caption{Окно выбора названия новой модели}
+\label{systemtest_train2:image}
+\end{figure}
+
+Вместо создания нового набора, после нажатия кнопки обучать, можно выбрать заготовленный набор и обучить нейронную сеть по нему.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_train3}}
+\caption{Выбор обучения по набору ''Белый''}
+\label{systemtest_train3:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce5:image} было загружено изображение кошки.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce5}}
+\caption{Интерфейс с изображением кошки}
+\label{systemtest_responce5:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce6:image} изображение кошки было обработано по модели ''Белый''.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce6}}
+\caption{Распознанныйе объекты на изображении кошки}
+\label{systemtest_responce6:image}
+\end{figure}
+На рисунке \ref{systemtest_responce7:image} было загружено изображение лилии.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce7}}
+\caption{Интерфейс с изображением лилии}
+\label{systemtest_responce7:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce8:image} изображение лилии было обработано по модели ''Белый''.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce8}}
+\caption{Распознанныйе объекты на изображении лилии}
+\label{systemtest_responce8:image}
+\end{figure}
+На рисунке \ref{systemtest_responce9:image} было загружено изображение леса.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce9}}
+\caption{Интерфейс с изображением леса}
+\label{systemtest_responce9:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce10:image} изображение леса было обработано по модели ''Белый''.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce10}}
+\caption{Распознанныйе объекты на изображении леса}
+\label{systemtest_responce10:image}
+\end{figure}
+На рисунке \ref{systemtest_responce11:image} было загружено изображение футбола.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce11}}
+\caption{Интерфейс с изображением футбола}
+\label{systemtest_responce11:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce12:image} изображение футбола было обработано по модели ''Белый''.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce12}}
+\caption{Распознанныйе объекты на изображении футбола}
+\label{systemtest_responce12:image}
+\end{figure}
+На рисунке \ref{systemtest_responce13:image} было загружено изображение платья.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce13}}
+\caption{Интерфейс с изображением платья}
+\label{systemtest_responce13:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce14:image} изображение платья было обработано по модели ''Белый''.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce14}}
+\caption{Распознанныйе объекты на изображении платья}
+\label{systemtest_responce14:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce15:image} было загружено изображение берёзы.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce15}}
+\caption{Интерфейс с изображением берёзы}
+\label{systemtest_responce15:image}
+\end{figure}
+
+На рисунке \ref{systemtest_responce16:image} изображение берёзы было обработано по модели ''Белый''.
+
+\begin{figure}[H]
+\center{\includegraphics[width=1\linewidth]{systemtest_responce16}}
+\caption{Распознанныйе объекты на изображении берёзы}
+\label{systemtest_responce16:image}
 \end{figure}
