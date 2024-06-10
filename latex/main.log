@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  9 JUN 2024 08:20
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  9 JUN 2024 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,7 +655,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
  []
 
-[1] (./ЛистЗадания.tex [2] (./main.lop)
+[1] (./ЛистЗадания.tex [2] (./main.lop [3])
 \tf@lop=\write4
 \openout4 = `main.lop'.
 
@@ -669,7 +669,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--108
 
  []
 
-) (./Реферат.tex [3] [4]
+) (./Реферат.tex [4]
 \c=\count313
 \last=\count314
 \pnul=\count315
@@ -703,11 +703,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--108
 \tf@lpc=\write6
 \openout6 = `main.lpc'.
 
-
-(./Обозначения.tex
-Underfull \hbox (badness 1331) in paragraph at lines 1--1
-\TU/TimesNewRoman(0)/m/n/14.4 Концептуальная модель сайта (Графический материал
- / Концептуальная
+ (./Обозначения.tex
+Underfull \hbox (badness 3078) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 Интерфейс приложения (Графический материал / Инте
+рфейс приложе-
  []
 
 
@@ -715,11 +714,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
  []
 
-[8]) (./Введение.tex [9] [10]
+[8] [9]) (./Введение.tex [10] [11]
 \c=\count337
 \last=\count338
 \pnul=\count339
-) (./Анализ.tex [11] [12]
+) (./Анализ.tex [12]
 Underfull \hbox (badness 3492) in paragraph at lines 3--4
 []\TU/TimesNewRoman(0)/m/n/14.4 Нейронная сеть, также именуемая искусственной н
 ервной сетью
@@ -1790,54 +1789,143 @@ File: images/systemtest_responce15.png Graphic file (type bmp)
  [63]
 File: images/systemtest_responce16.png Graphic file (type bmp)
 <images/systemtest_responce16.png>
-)
-(./Заключение.tex [64] [65]) (./СписокИсточников.tex [66] [67]
+ [64]
+File: images/systemtest_responce17.png Graphic file (type bmp)
+<images/systemtest_responce17.png>
+
+[65]
+File: images/systemtest_responce18.png Graphic file (type bmp)
+<images/systemtest_responce18.png>
+ [66]
+File: images/systemtest_responce19.png Graphic file (type bmp)
+<images/systemtest_responce19.png>
+ [67]
+File: images/systemtest_responce20.png Graphic file (type bmp)
+<images/systemtest_responce20.png>
+) (./Заключение.tex [68] [69] [70]) (./СписокИсточников.tex
+[71] [72]
 Underfull \hbox (badness 6188) in paragraph at lines 15--16
 []\TU/TimesNewRoman(0)/m/n/14.4 Герон, О. Практическое машинное обучение с Scik
 it-Learn и
  []
 
-) (./Плакаты.tex [68] [69]
-File: images/usecase.png Graphic file (type bmp)
-<images/usecase.png>
-File: images/usecase.png Graphic file (type bmp)
-<images/usecase.png>
- [70
+) (./Плакаты.tex [73] [74]
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+File: images/svedenia.eps Graphic file (type eps)
+<images/svedenia.eps>
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+File: images/cel_razrab.eps Graphic file (type eps)
+<images/cel_razrab.eps>
+ [75
 
 ]
-File: images/usecase.png Graphic file (type bmp)
-<images/usecase.png>
- [71]
-File: images/usecase.png Graphic file (type bmp)
-<images/usecase.png>
- [72] [73]) (./Код.tex
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+File: images/comp_diagram_plakat.eps Graphic file (type eps)
+<images/comp_diagram_plakat.eps>
+ [76]
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+File: images/ns_plakat.eps Graphic file (type eps)
+<images/ns_plakat.eps>
+ [77]
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+File: images/funk.eps Graphic file (type eps)
+<images/funk.eps>
+ [78]
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+File: images/BD_diagram_plakat.eps Graphic file (type eps)
+<images/BD_diagram_plakat.eps>
+ [79]
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+File: images/program_interface_plakat.eps Graphic file (type eps)
+<images/program_interface_plakat.eps>
+ [80]
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+File: images/rab.eps Graphic file (type eps)
+<images/rab.eps>
+ [81]
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+File: images/finish.eps Graphic file (type eps)
+<images/finish.eps>
+ [82] [83])
+(./Код.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 4.
- (./main.py [74
+ (./main.py [84
 
-]
-[75] [76]) (./ANFIS.py [77]) (./DB.py [78]) [79]) [80] (./main.aux)
+] [85] [86]) (./ANFIS.py [87]) (./DB.py [88]) [89])
+[90] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 53ADB11A24C02BBA9FE50EF6C9627072;14979
-(rerunfilecheck)             After:  E80BE5740568B612D02512261DD393D2;14978.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 82687B1F972E74D88A843C4B70EBAFFD;14978.
  ) 
 Here is how much of TeX's memory you used:
- 16551 strings out of 474759
- 326503 string characters out of 5761036
+ 16708 strings out of 474759
+ 331165 string characters out of 5761036
  2386148 words of memory out of 5000000
- 38453 multiletter control sequences out of 15000+600000
+ 38600 multiletter control sequences out of 15000+600000
  559598 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,110p,953b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,110p,868b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (80 pages).
+Output written on main.pdf (90 pages).
