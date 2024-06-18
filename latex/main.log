@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  9 JUN 2024 19:13
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.21)  18 JUN 2024 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,1155 +755,165 @@ File: images/databasediagram.png Graphic file (type bmp)
 File: images/componentdiagram.png Graphic file (type bmp)
 <images/componentdiagram.png>
  [32] [33]) (./РабочийПроект.tex [34]
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Нейронная
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Прием данных, обработанных
  []
 
 
-Overfull \hbox (4.44296pt too wide) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 нормализацияКаналов(
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\TU/TimesNewRoman(0)/m/n/14.4 методом нормализацияКаналов,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Происходит загруз-
+Underfull \hbox (badness 1436) in paragraph at lines 33--33
+\TU/TimesNewRoman(0)/m/n/14.4 и их обработка с использованием
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ка изображения из
+Underfull \hbox (badness 6268) in paragraph at lines 33--33
+\TU/TimesNewRoman(0)/m/n/14.4 оптимизированной модели искус-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 файла, последующее
+Underfull \hbox (badness 1253) in paragraph at lines 33--33
+\TU/TimesNewRoman(0)/m/n/14.4 бора данных для конфигурации и
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 его разделение на
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 цветовые каналы, а
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 этих каналов, пред-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ставленных в виде
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 матриц, в массивы.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 После этого проис-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ходит нормализация
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 АнфисаРаспознать(
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 В рамках данной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ется прием данных,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 обработанных мето-
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 дом нормализацияКа-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Эти данные, совме-
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 щенные с оптимизи-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рованной моделью
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 искусственной ней-
- []
-
-
-Underfull \hbox (badness 1360) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ронной сети, подвер-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 гаются дальнейшей
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 обработке в модуле
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 anfisReady, который
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 программного обес-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 печения MATLAB.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 является генерация
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 черно-белой маски,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 которая визуализи-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рует распознанные
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 объекты и имеет
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 разрешение 720x720
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 АнфисаТренировать(
- []
-
-
-Underfull \hbox (badness 3302) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 Набор, Размер, Имя-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Инициируя процесс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 обучения, функция
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 фигурации модуля
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 anfis, реализованного
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 в среде MATLAB.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 На основании этих
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ит и оптимизирует
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ронной сети. После
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 успешного обуче-
- []
-
-
-Underfull \hbox (badness 3758) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ния, сформированная
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 модель сохраняет-
- []
-
-
-Underfull \hbox (badness 4217) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ся в базу данных с
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 наименованием, ука-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 function out =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 AnfisReady(data,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Данная функция,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 реализованная на
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 языке программи-
- []
-
-
-Underfull \hbox (badness 6461) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рования MATLAB и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 использующая среду
- []
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 Runtime, осуществля-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ет передачу данных
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 пиксельном уровне.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 В соответствии с
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 выбранной моделью
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 нейросети, функция
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 вычисляет степень
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 пикселя заданной
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 модели и возвращает
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 function out =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Программный мо-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 дуль, реализованный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 на языке програм-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 мирования MATLAB
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 и эксплуатирующий
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 среду выполнения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 MATLAB Runtime,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 предназначен для
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 приема набора дан-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 выборку. Данный
- []
-
-
-Underfull \hbox (badness 4205) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 модуль осуществляет
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 процесс обучения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 нечеткой нейрон-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ной сети, используя
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 предоставленные
- []
-
-
-Underfull \hbox (badness 5787) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 В результате выпол-
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 шую процедуру обу-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 База дан-
- []
-
-
-Overfull \hbox (6.67188pt too wide) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 сохранить(ИмяМодели,
- []
-
-
-Underfull \hbox (badness 7012) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Данная функция ре-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ализует процедуру
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 архивации трениро-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 вочного датасета и
- []
-
-
-Underfull \hbox (badness 4995) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ченной нейросетевой
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 модели в структури-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рованное хранилище
- []
-
-
-Underfull \hbox (badness 3701) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 данных. Это обеспе-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 чивает сохранность
- []
-
-
-Overfull \hbox (28.1664pt too wide) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 загрузитьСписокНаборов() 
- []
-
-
-Underfull \hbox (badness 1389) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Функциональный мо-
- []
-
-
-Underfull \hbox (badness 4940) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 базы данных, содер-
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 тренировочных набо-
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рах и соответствую-
- []
-
-
-Underfull \hbox (badness 2932) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 щих обученных ней-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Он выполняет опе-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рацию чтения и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 последующего фор-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 мирования перечня
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 доступных трени-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ровочных наборов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 данных и ассоци-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ированных с ними
- []
-
-
-Overfull \hbox (25.84608pt too wide) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 загрузитьНабор(Название) 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Эта функция осу-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ществляет операцию
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 извлечения из базы
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 данных специфиче-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ского обучающего
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 набора, состоящего
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 из трёх цветовых
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 каналов и целевого
- []
-
-
-Overfull \hbox (9.70638pt too wide) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Графический
- []
-
-
-Overfull \hbox (12.1211pt too wide) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 загрузитьИзображение() 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Данная функция
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 выполняет загрузку
- []
-
-
-Underfull \hbox (badness 1867) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 изображения из фай-
- []
-
-
-Underfull \hbox (badness 1460) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ла, а затем проводит
- []
-
-
-Underfull \hbox (badness 2512) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 его масштабирование
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 до определённых
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 размеров 720x720
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 отображение в за-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 данном графическом
- []
-
-
-Underfull \hbox (badness 3954) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Функция инициирует
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 процесс передачи
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ранее загруженного
- []
-
-
-Underfull \hbox (badness 2913) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 изображения в архи-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 тектуру нейронной
- []
-
-
-Underfull \hbox (badness 3029) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 сети, после чего ак-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 тивирует интерфейс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 для выбора предва-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 рительно обученной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 вариантов, что поз-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 воляет пользователю
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 взаимодействовать с
- []
-
-
-Underfull \hbox (badness 7649) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 системой машинного
- []
-
-
-Overfull \hbox (1.17345pt too wide) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 выбрать(ОкноВыбора) 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ществляет интегра-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 цию предварительно
- []
-
-
-Underfull \hbox (badness 6332) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 обученной модели в
- []
-
-
-Underfull \hbox (badness 4660) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 структуру нейронной
- []
-
-
-Underfull \hbox (badness 3568) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 изводит деактивацию
- []
-
-
-Overfull \hbox (69.73512pt too wide) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 сохранитьРезультатРаспознания() 
- []
-
-
-Underfull \hbox (badness 3954) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Функция инициирует
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 активацию диало-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 гового интерфейса,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 предназначенно-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 го для сохранения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 выходных данных
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 нейронной сети в
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 файловую систему,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 обеспечивая тем
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 самым персистент-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ность результатов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Функция активирует
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 пользовательский
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 интерфейс в виде
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 торое предоставляет
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 возможность выбора
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 набора данных для
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 обучения нейронной
- []
-
-
-Overfull \hbox (27.41405pt too wide) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 подтвердить(ОкноВыбора) 
- []
-
-
-Underfull \hbox (badness 3954) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Функция инициирует
- []
-
-
-Underfull \hbox (badness 4832) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 передачу выбранного
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 датасета для обуче-
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ния нейронной сети,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 после чего активи-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 руется интерфейс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 в виде диалогового
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 окна, предоставляю-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 щего пользователю
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 опцию присвоения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 наименования новой
- []
-
-
-Overfull \hbox (23.37811pt too wide) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 отправить(ОкноНазвания) 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]\TU/TimesNewRoman(0)/m/n/14.4 Эта функция осу-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ществляет трансмис-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 сию наименования
- []
-
-
-Underfull \hbox (badness 5147) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 модели в архитекту-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ру нейронной сети,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 инициируя этим
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/TimesNewRoman(0)/m/n/14.4 По завершении
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 процесса, модель
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 систематически
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 регистрируется и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 архивируется в со-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 ответствующей базе
- []
-
-
-Underfull \hbox (badness 6220) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 данных, что обеспе-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 для дальнейшего
- []
-
-
-Underfull \hbox (badness 4156) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 использования и ин-
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Чтение и формирование списка
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\TU/TimesNewRoman(0)/m/n/14.4 прикладные задачи
+Underfull \hbox (badness 3780) in paragraph at lines 87--87
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Интеграция модели в нейронную
  []
 
-[35] [36] [37] [38] [39] [40] [41]
+[36]
 LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
-(Font)              scaled to size 10.07994pt on input line 85.
- [42] [43] [44] [45]
+(Font)              scaled to size 10.07994pt on input line 95.
+ [37] [38] [39] [40] [41]
 File: images/systemtest_interface.png Graphic file (type bmp)
 <images/systemtest_interface.png>
- [46]
+ [42]
 File: images/systemtest_responce.png Graphic file (type bmp)
 <images/systemtest_responce.png>
- [47]
+ [43]
 File: images/systemtest_responce1.png Graphic file (type bmp)
 <images/systemtest_responce1.png>
 File: images/systemtest_responce2.png Graphic file (type bmp)
 <images/systemtest_responce2.png>
- [48]
+ [44]
 File: images/systemtest_responce3.png Graphic file (type bmp)
 <images/systemtest_responce3.png>
 File: images/systemtest_responce4.png Graphic file (type bmp)
 <images/systemtest_responce4.png>
- [49]
+ [45]
 File: images/systemtest_train1.png Graphic file (type bmp)
 <images/systemtest_train1.png>
-
-[50]
+ [46]
 File: images/systemtest_train2.png Graphic file (type bmp)
 <images/systemtest_train2.png>
- [51]
+ [47]
 File: images/systemtest_train3.png Graphic file (type bmp)
 <images/systemtest_train3.png>
- [52]
+ [48]
 File: images/systemtest_responce5.png Graphic file (type bmp)
 <images/systemtest_responce5.png>
- [53]
+ [49]
 File: images/systemtest_responce6.png Graphic file (type bmp)
 <images/systemtest_responce6.png>
- [54]
+ [50]
 File: images/systemtest_responce7.png Graphic file (type bmp)
 <images/systemtest_responce7.png>
- [55]
+
+[51]
 File: images/systemtest_responce8.png Graphic file (type bmp)
 <images/systemtest_responce8.png>
- [56]
+ [52]
 File: images/systemtest_responce9.png Graphic file (type bmp)
 <images/systemtest_responce9.png>
- [57]
+ [53]
 File: images/systemtest_responce10.png Graphic file (type bmp)
 <images/systemtest_responce10.png>
- [58]
+ [54]
 File: images/systemtest_responce11.png Graphic file (type bmp)
 <images/systemtest_responce11.png>
- [59]
+ [55]
 File: images/systemtest_responce12.png Graphic file (type bmp)
 <images/systemtest_responce12.png>
- [60]
+ [56]
 File: images/systemtest_responce13.png Graphic file (type bmp)
 <images/systemtest_responce13.png>
- [61]
+ [57]
 File: images/systemtest_responce14.png Graphic file (type bmp)
 <images/systemtest_responce14.png>
- [62]
+ [58]
 File: images/systemtest_responce15.png Graphic file (type bmp)
 <images/systemtest_responce15.png>
- [63]
+ [59]
 File: images/systemtest_responce16.png Graphic file (type bmp)
 <images/systemtest_responce16.png>
- [64]
+ [60]
 File: images/systemtest_responce17.png Graphic file (type bmp)
 <images/systemtest_responce17.png>
-
-[65]
+ [61]
 File: images/systemtest_responce18.png Graphic file (type bmp)
 <images/systemtest_responce18.png>
- [66]
+ [62]
 File: images/systemtest_responce19.png Graphic file (type bmp)
 <images/systemtest_responce19.png>
- [67]
+ [63]
 File: images/systemtest_responce20.png Graphic file (type bmp)
 <images/systemtest_responce20.png>
-) (./Заключение.tex [68] [69] [70]) (./СписокИсточников.tex
-[71] [72]
+ [64]
+File: images/systemtest_responce21.png Graphic file (type bmp)
+<images/systemtest_responce21.png>
+ [65]
+File: images/systemtest_responce22.png Graphic file (type bmp)
+<images/systemtest_responce22.png>
+
+[66]
+File: images/systemtest_responce23.png Graphic file (type bmp)
+<images/systemtest_responce23.png>
+ [67]
+File: images/systemtest_responce24.png Graphic file (type bmp)
+<images/systemtest_responce24.png>
+) (./Заключение.tex [68] [69] [70]) (./СписокИсточников.tex [71]
+[72]
 Underfull \hbox (badness 6188) in paragraph at lines 15--16
 []\TU/TimesNewRoman(0)/m/n/14.4 Герон, О. Практическое машинное обучение с Scik
 it-Learn и
  []
 
 ) (./Плакаты.tex [73] [74]
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-File: images/svedenia.eps Graphic file (type eps)
-<images/svedenia.eps>
-Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-File: images/cel_razrab.eps Graphic file (type eps)
-<images/cel_razrab.eps>
+File: images/Ramka_VKR.png Graphic file (type bmp)
+<images/Ramka_VKR.png>
+File: images/Ramka_VKR2.png Graphic file (type bmp)
+<images/Ramka_VKR2.png>
  [75
 
 ]
-Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
-File: images/comp_diagram_plakat.eps Graphic file (type eps)
-<images/comp_diagram_plakat.eps>
+File: images/Ramka_VKR3.png Graphic file (type bmp)
+<images/Ramka_VKR3.png>
  [76]
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
-File: images/ns_plakat.eps Graphic file (type eps)
-<images/ns_plakat.eps>
+File: images/Ramka_VKR4.png Graphic file (type bmp)
+<images/Ramka_VKR4.png>
  [77]
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-File: images/funk.eps Graphic file (type eps)
-<images/funk.eps>
+File: images/Ramka_VKR5.png Graphic file (type bmp)
+<images/Ramka_VKR5.png>
  [78]
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-File: images/BD_diagram_plakat.eps Graphic file (type eps)
-<images/BD_diagram_plakat.eps>
+File: images/Ramka_VKR6.png Graphic file (type bmp)
+<images/Ramka_VKR6.png>
  [79]
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
-File: images/program_interface_plakat.eps Graphic file (type eps)
-<images/program_interface_plakat.eps>
+File: images/Ramka_VKR7.png Graphic file (type bmp)
+<images/Ramka_VKR7.png>
  [80]
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
-File: images/rab.eps Graphic file (type eps)
-<images/rab.eps>
+File: images/Ramka_VKR8.png Graphic file (type bmp)
+<images/Ramka_VKR8.png>
  [81]
-Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
-File: images/finish.eps Graphic file (type eps)
-<images/finish.eps>
+File: images/Ramka_VKR9.png Graphic file (type bmp)
+<images/Ramka_VKR9.png>
  [82] [83])
 (./Код.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
@@ -1916,16 +926,26 @@ nput line 4.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 82687B1F972E74D88A843C4B70EBAFFD;14978.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: F2D0D75F9131C02ACF66723E4F45EF31;13772
+(rerunfilecheck)             After:  CF31DD1ED13B3185975A20F88A04D008;15381.
  ) 
 Here is how much of TeX's memory you used:
- 16708 strings out of 474759
- 331165 string characters out of 5761036
- 2386148 words of memory out of 5000000
- 38600 multiletter control sequences out of 15000+600000
+ 16891 strings out of 474759
+ 335945 string characters out of 5761036
+ 2284148 words of memory out of 5000000
+ 38793 multiletter control sequences out of 15000+600000
  559598 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,110p,868b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,110p,868b,2123s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (90 pages).

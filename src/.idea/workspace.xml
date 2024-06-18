@@ -5,15 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8799f097-5ceb-4382-a4c1-c55bbc5f9114" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../latex/images/BD_diagram_plakat.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/BD_diagram_plakat.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/Maket.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/Maket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/cel_razrab.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/cel_razrab.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/comp_diagram_plakat.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/comp_diagram_plakat.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/componentdiagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/componentdiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/databasediagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/databasediagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/finish.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/finish.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/funk.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/funk.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/gaussmf.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/gaussmf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/neuro_diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/neuro_diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/ns_plakat.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/ns_plakat.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/program_interface_plakat.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/program_interface_plakat.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/rab.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/rab.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/svedenia.eps" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/svedenia.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_interface.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_interface.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce12.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce14.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce15.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce17.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce18.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce19.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce20.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_responce9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_responce9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_train1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_train1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_train2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_train2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/systemtest_train3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/systemtest_train3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/images/usecase.png" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/images/usecase.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latex/main.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.aux" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latex/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.lop" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.lop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latex/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../latex/main.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.synctex.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latex/main.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/main.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/Введение.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Введение.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/vkr.cls" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/vkr.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/Анализ.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Анализ.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latex/Заключение.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Заключение.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/Плакаты.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Плакаты.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../latex/Реферат.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Реферат.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/Обозначения.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/Обозначения.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/РабочийПроект.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/РабочийПроект.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/ТехЗадание.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/ТехЗадание.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latex/ТехПроект.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../latex/ТехПроект.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/output_image.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
